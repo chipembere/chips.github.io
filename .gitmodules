@@ -1,0 +1,3 @@
+[submodule "blog_project"]
+	path = blog_project
+	url = git@github.com:Yynx/blog_project.git
